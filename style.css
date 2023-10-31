@@ -16,7 +16,7 @@
 }
 
 header {
-    background-image: url(./imagens/img.png);
+    background-image: url(./imagens/bg-mobile.png);
     background-size: cover;
     height: 8.375rem;
 
@@ -113,4 +113,8 @@ main {
 .login > p a {
     font-weight: 700;
     font-size: 1rem;
+}
+
+@media(min-width: 1000px) {
+
 }
